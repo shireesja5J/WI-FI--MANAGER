@@ -47,7 +47,7 @@ Usage
 
 1.Clone the repository:
 
-git clone https://github.com/yourusername/Wi-Fi-Manager-C.git
+git clone https://github git
 cd Wi-Fi-Manager-C
 
 2.Compile the code:
